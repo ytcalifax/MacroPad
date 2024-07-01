@@ -65,7 +65,7 @@ Layout: 6 buttons 1 knob
 	K1,70,15
 
 Layout: 12 buttons 2 knobs
-	4498:34866
+	4489:34960
 	3:18:1:1:6
 	B1,5,5
 	B2,25,5
